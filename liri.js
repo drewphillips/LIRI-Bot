@@ -1,3 +1,5 @@
+// read the read me for comands.. bouns is working. 
+
 require("dotenv").config();
 var Twitter = require("twitter");
 var Spotify = require("node-spotify-api");
