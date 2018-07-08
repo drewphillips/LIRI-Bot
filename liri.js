@@ -56,8 +56,8 @@ function runSpotify(search){
           return console.log('Error occurred: ' + err);
         }
        
-     console.log(JSON.stringify(data, null, 2));
-
+     // console.log(JSON.stringify(data, null, 2));
+        // console.log(data)
     // Album
     // Artist 
     // Song name
